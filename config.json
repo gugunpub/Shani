@@ -2,7 +2,7 @@
 	"site_title": "Kacamata Patah",
 	"title": "KacamataPatah",
 	"domain": "kacamata-patah.pages.dev",
-	"theme": "minimal",
+	"theme": "default",
 	"source": "./articles",
 	"dest": "./docs",
 	"path": "",
